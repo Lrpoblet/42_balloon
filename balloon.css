@@ -1,0 +1,28 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.balloon {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.hidden {
+    display: none;
+}
